@@ -1,0 +1,6 @@
+Symphobox è  un motore di ricerca dedicato a tutti i musicisti che vogliono farsi trovare o che cercano nuove collaborazioni. La piattaforma prevede un sistema di
+registrazione e di login. Le tipologie di utente previste nella progettazione sono due (not-admin ,  admin) , e godono di diversi privilegi in base che l'utente
+sia amministratore o meno. Sulla piattaforma è prevista la navigazione nella sezione "Annunci" che contiene tutti gli annunci pubblicati dagli utenti registrati,
+la pubblicazione di articoli (per i soli account admin) e la navigazione nella sezione "Articoli" che rientrano nell'ambito della musica in generale. 
+A fare da cornice al tutto vi è un sistema di notifiche e una chat globale degli utenti.
+Buona fortuna.
